@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ShortCalculator
+comment1.params=baseValue\ difference
+comment1.target=java.lang.Short\ add(short,\ short)
+comment1.text=Adds\ short\ together,\ converts\ to\ integers\ while\ adding\ncasts\ back\ to\ short\ when\ complete
+comment2.params=baseValue\ difference
+comment2.target=java.lang.Short\ subtract(short,\ short)
+comment2.text=Subtracts\ shorts,\ converts\ to\ integers\ while\ adding\ncasts\ back\ to\ short\ when\ complete
+comment3.params=multiplicand\ multiplier
+comment3.target=java.lang.Short\ multiply(short,\ short)
+comment3.text=Multiplys\ shorts,\ converts\ to\ integers\ while\ multiplying\ncasts\ back\ to\ short\ when\ complete
+comment4.params=dividend\ divisor
+comment4.target=java.lang.Short\ divide(short,\ short)
+comment4.text=Divides\ shorts,\ converts\ to\ integers\ while\ dividing\ncasts\ back\ to\ short\ when\ complete
+comment5.params=part1\ part2
+comment5.target=java.lang.Short\ remainder(short,\ short)
+comment5.text=Gets\ the\ remainder\ from\ 2\ parts
+numComments=6
